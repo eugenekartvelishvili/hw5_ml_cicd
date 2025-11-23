@@ -1,0 +1,9 @@
+mlflow
+cryptography==41.0.5
+evidently
+deepchecks
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib

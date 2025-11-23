@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+mlruns/
+data/
+reports/
+artifacts/
+.ipynb_checkpoints/
+.git
+.github
+.gitlab-ci.yml
